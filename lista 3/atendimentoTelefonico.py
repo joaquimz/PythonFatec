@@ -15,7 +15,7 @@ while True:
         case "3":
             print("Cancelando Atendimento...")
         case "4":
-            print("Redireconando para o Atendente...")
+            print("Redirecionando para o Atendente...")
             break
         case _:
             print("Opção Invalida, Escolha uma opção valida.")
