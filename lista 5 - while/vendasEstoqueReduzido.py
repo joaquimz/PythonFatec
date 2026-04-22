@@ -1,0 +1,1 @@
+#O Sistema define um estoque inicial de produtos e a cada venda, retira quantidade do estoque. O sistema encerra quando não permite vender mais do que o disponível.
