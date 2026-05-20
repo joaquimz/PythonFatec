@@ -1,5 +1,6 @@
 # Faça um programa que permita cadastrar votos para 3 candidatos. Exibe contagem ao final quando for digitado "fim".
 
+print("--- ELEIÇÕES ---")
 votos_flavio = 0
 votos_lula = 0
 votos_zema = 0
